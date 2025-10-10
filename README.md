@@ -18,10 +18,10 @@
 📝 **What:** Simple and responsive AR's Agency Home page website with clean UI using HTML and CSS.
 <br>
 
-⭐ **Purplish Demo Web**<br>
+⭐ **Purplish Demo**<br>
 🔗 [Website Link](https://purplish-web-demo.netlify.app/)<br>
 ⚙️ **Stack:** HTML + CSS + RWD<br>
-📝 **What:** Responsive Purplish Demo Webite short one page created with HTML and CSS only.
+📝 **What:** Responsive Purplish Demo Webite short one page created with HTML and CSS.
 <br>
 
 ⭐ **AR's Portfolio**<br>
